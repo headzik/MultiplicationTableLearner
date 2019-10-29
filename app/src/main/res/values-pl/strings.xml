@@ -1,0 +1,75 @@
+<resources>
+    <!--General-->
+    <string name="app_name">MultiplicationTableLearner</string>
+    <string name="greetings">Witamy w programie Nauczyciel Tabliczki Mnożenia!</string>
+    <string name="wanna_go_back">Czy naprawdę chcesz wrócić?</string>
+    <string name="confirm">By potwierdzić stuknij w ekran jednym palcem, kilkoma by zostać</string>
+    <string name="provide_second_number">Wprowadź drugą liczbę</string>
+    <string name="get_result">i otrzymaj wynik poprzez przeciągnięcie dwoma palcami w lewo</string>
+    <string name="times">pomnożone przez:</string>
+    <string name="equals">jest równe:</string>
+    <string name="congrats">Gratulacje!</string>
+    <string name="unfortunately">Niestety nie!</string>
+    <string name="ending_instruction">By zacząć od początku, przeciągnij jednym palcem w dół.
+        By powtórzyć wynik, przeciągnij dwoma palcami w lewo.
+        By wyjść, przeciągnij dwoma palcami w prawo.</string>
+    <!--Main Menu-->
+    <string name="main_menu">Menu Główne</string>
+    <string name="move_to_lm">By otworzyć Tryb Uczenia, przeciągnij jednym palcem w lewo</string>
+    <string name="move_to_tm">By otworzyć Tryb Testowania, przeciągnij dwoma palcami w lewo</string>
+    <string name="move_to_tt">By otworzyć Tryb Samouczka, przeciągnij trzema palcami w lewo</string>
+    <string name="quit">By wyjść, przeciągnij dwoma palcami w prawo</string>
+    <string name="want_to_quit">Czy na pewno chcesz wyjść?</string>
+    <!--Learn Mode-->
+    <string name="learn_mode">Tryb Uczenia</string>
+    <string name="provide_eq_or_num">Wprowadź równanie albo liczbę</string>
+    <string name="is_result">jest wynikiem</string>
+    <string name="multiplicand_is">Mnożna wynosi: </string>
+    <!--Test Mode-->
+    <string name="test_mode">Tryb Testowania</string>
+    <string name="is_correct">jest poprawnym wynikiem!</string>
+    <string name="real_answer">Poprawna odpowiedź to:</string>
+    <!--Tutorial Mode-->
+    <string name="tutorial_mode">Tryb samouczka</string>
+    <string name="how_works">Tutaj możesz się nauczyć jak aplikacja działa</string>
+    <string name="too_many_moves">Za dużo ruchów, spróbuj ponownie</string>
+    <string name="tut_instruction">By przejść całego samouczka, przeciągnij jednym palcem w dół.
+                        By wrócić do menu, przeciągnij dwoma palcami w prawo.
+                        By się dowiedzieć jak wprowadzić liczbę, przeciągnij palcem w lewo.
+                        By się dowiedzieć jak wprowadzić działanie, przeciągnij dwoma palcami w lewo.
+                        By się dowiedzieć jak działa Tryb Uczenia, przeciągnij trzema palcami w lewo.
+                        By się dowiedzieć jak działa Tryb Testowania, przeciągnij czterema palcami w lewo.</string>
+    <string name="enter_digit_instruction">Liczby są wprowadzane cyfra po cyfrze od lewej do prawej.
+                        Cyfrę wprowadzasz poprzez stuknięcie ekranu.
+                        Liczba palców, której użyjesz zostanie dodana do licznika.
+                        Cyfry zawierają się w zakresie od zera do dziewięciu.
+                        Przy równowartosci liczby dziesięć, licznik się zeruje.
+                        Spróbuj przejść przez wszystkie cyfry poprzez stuknięcie ekranu dziewięć razy jednym palcem.</string>
+    <string name="good_job">świetnie!</string>
+    <string name="enter_digit2_instruction">Teraz spróbuj wprowadzić cyfrę 9 używając tylko
+        trzech ruchów poprzez stuknięcie kilkoma palcami.</string>
+    <string name="change_pos_instruction">By wprowadzić drugą cyfrę, przeciągnij jednym palcem w lewo.
+                        By usunąć ostatnio wprowadzoną cyfrę, przeciągnij jednym palcem w prawo.
+                        Spróbuj wprowadzić liczbę czterysta jeden.</string>
+    <string name="finished_enter_number">Teraz już wiesz jak wprowadzić liczbę!</string>
+    <string name="provide_eq_instruction">By wprowadzić drugą liczbę, najpierw musisz przytrzymać palec na ekranie.
+                        W ten sposób zatwierdzasz wprowadzenie pierwszej liczby i przechodzisz do następnej.
+                        Wprowadź pierwszą liczbę i przytrzymaj palec na ekranie.</string>
+    <string name="provide_sec_number">Teraz możesz wprowadzić drugą liczbę.
+                        By zatwierdzić i otrzymać wynik, przeciągnij dwoma palcami w lewo.</string>
+    <string name="finished_provide_eq">Już wiesz jak wprowadzić całe działanie!</string>
+    <string name="lm_instruction_start">W Trybie Uczenia możesz wprowadzić liczbę lub całe działanie</string>
+    <string name="learn_mode_instruction">W obu przypadkach zatwierdza się poprzez przeciągnięcie w lewo dwoma palcami.
+                        Jeśli wprowadzisz tylko numer, usłyszysz wszystkie możliwe działania, których wynikiem jest ta liczba.
+                        Jeśli wprowadzisz działanie, usłyszysz jego wynik.
+                        By usłyszeć pierwszą wprowadzoną liczbę, przeciągnij jednym palcem w dół.</string>
+    <string name="finished_lm">Teraz już wiesz jak działa Tryb Uczenia. Wypróbuj go!</string>
+    <string name="tm_instruction_start">W Trybie Testowania odpowiadasz na pytania zadawane przez program</string>
+    <string name="test_mode_instruction">Pytaniem może być działanie, do którego musisz wprowadzić wynik,
+                        bądź liczba, do której musisz wprowadzić odpowiednie działanie.
+                        W obu przypadkach zatwierdzasz przeciągając dwoma palcami w lewo.
+                        By usłyszeć pytanie ponownie, przeciągnij jednym palcem w dół.</string>
+    <string name="finished_tm">Teraz już wiesz jak działa Tryb Testowania. Wypróbuj go!</string>
+    <string name="finished_tutorial">Przeszedłeś cały Samouczek! Jeśli nadal masz problemy,
+                        możesz wybrać poszczególne tematy i je powtórzyć</string>
+</resources>

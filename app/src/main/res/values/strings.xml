@@ -1,0 +1,73 @@
+<resources>
+<!--General-->
+<string name="app_name">MultiplicationTableLearner</string>
+<string name="greetings">Welcome to the Multiplication Table Learner!</string>
+<string name="wanna_go_back">Do you really want to go back?</string>
+<string name="confirm">Tap with one finger to confirm, to stay tap with multiple fingers</string>
+<string name="provide_second_number">Provide second number </string>
+<string name="get_result"> and get result by double swipe from right to left.</string>
+<string name="times">times</string>
+<string name="equals">equals</string>
+<string name="congrats">Congratulations!</string>
+<string name="unfortunately">Unfortunately no!</string>
+<string name="ending_instruction">To start over, single swipe down.
+        To repeat result, double swipe left. To quit, double swipe right.</string>
+<!--Main Menu-->
+<string name="main_menu">Main menu</string>
+<string name="move_to_lm">To move to Learn Mode, swipe left with one finger.</string>
+<string name="move_to_tm">To move to Test Mode, swipe left with two fingers.</string>
+<string name="move_to_tt">To move to Tutorial, swipe left with three fingers.</string>
+<string name="quit">To quit, swipe right with two fingers.</string>
+<string name="want_to_quit">Do you really want to quit?</string>
+<!--Learn Mode-->
+<string name="learn_mode">Learn Mode</string>
+<string name="provide_eq_or_num">Provide equation or a number</string>
+<string name="is_result">is a result of</string>
+<string name="multiplicand_is">Multiplicand is</string>
+<!--Test Mode-->
+<string name="test_mode">Test Mode</string>
+<string name="is_correct">is correct!</string>
+<string name="real_answer">The real answer is</string>
+<!--Tutorial Mode-->
+<string name="tutorial_mode">Tutorial Mode</string>
+<string name="how_works">Here you can learn how the application works</string>
+<string name="too_many_moves">Too many moves needed, try again</string>
+    <string name="tut_instruction">To go through the whole tutorial, swipe down with one finger.
+                            To go back, swipe right with two fingers.
+                            To learn how to enter number, swipe left with one finger.
+                            To learn how to provide equation, swipe left with two fingers.
+                            To learn how Learn Mode works, swipe left with three fingers.
+                            To learn how Test Mode works, swipe left with four fingers.</string>
+    <string name="enter_digit_instruction">Numbers are entered digit by digit from left to right.
+                            You enter a digit by tapping the screen.
+                            The number of fingers you use is being added to the counter.
+                            Digits are in the range of 0 to 9.
+                            At the equivalent of ten, the counter resets.
+                            Try to go through all the digits by tapping with a single finger 9 times.</string>
+<string name="good_job">Good job!</string>
+<string name="enter_digit2_instruction">Now try to enter digit 9 in just three moves by using multiple fingers</string>
+    <string name="change_pos_instruction">To enter second digit, swipe left with one finger.
+                            To erase last entered digit, swipe right with one finger.
+                            Try to enter number 401.</string>
+<string name="finished_enter_number">Now you know how to enter number!</string>
+    <string name="provide_eq_instruction"> In order to provide second number, first you need to long press with one fingers.
+                            That way you confirm entering the first one and move to the other.
+                            Enter first number and hold one finger on the screen.</string>
+    <string name="provide_sec_number">Now you can provide second number.
+                            To confirm and get the result, swipe left with two fingers</string>
+<string name="finished_provide_eq">Now you can provide the whole equation!</string>
+<string name="lm_instruction_start">In Learn Mode you provide either a number or an equation</string>
+    <string name="learn_mode_instruction">In both cases you confirm by swiping left with two fingers.
+                            If you provide a number, you will hear all the possible equations that result in this number.
+                            If you provide an equation, you will get the resulting number.
+                            To hear the first provided number, swipe down with one finger</string>
+<string name="finished_lm">Now you know how the Learn Mode works. Try it out!</string>
+<string name="tm_instruction_start">In Test Mode you answer to the question asked by the program</string>
+    <string name="test_mode_instruction">The question is either an equation to which you need to provide a result.
+                            Or just a number, to which you should provide an equation.
+                            In both cases you confirm by swiping left with two fingers.
+                            To repeat question, swipe down with one finger.</string>
+<string name="finished_tm">Now you know how the Test Mode works. Try it out!</string>
+    <string name="finished_tutorial">You went through the whole tutorial!
+                            If you still have problems, you can select proper chapter to repeat</string>
+</resources>
